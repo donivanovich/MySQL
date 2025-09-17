@@ -1,0 +1,8 @@
+# Forzar a GitHub Linguist a reconocer todos los archivos como SQL
+* linguist-language=SQL
+
+# Ignorar archivos que no deberían contar como código
+*.md linguist-documentation
+*.txt linguist-documentation
+*.json linguist-vendored
+*.yml linguist-vendored
