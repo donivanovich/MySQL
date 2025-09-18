@@ -1,6 +1,1 @@
 *.sql linguist-language=SQL
-*.ddl linguist-language=SQL
-*.dml linguist-language=SQL
-*.md linguist-vendored
-*.txt linguist-vendored
-*.json linguist-vendored
